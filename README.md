@@ -1,3 +1,2 @@
 # part
-# Part Order Program
-# TEST
+# 처음 동기화함.
